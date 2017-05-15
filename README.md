@@ -57,3 +57,53 @@ Should return you something like this
 # Hi --------! You've successfully authenticated, but GitHub does not provide shell access
 ```
 
+## Ruby with some useful gems
+
+### Ruby
+
+First, let's clean ruby...
+
+```bash
+rvm implode && sudo rm -rf ~/.rvm
+# If you got "zsh: command not found: rvm", carry on. It means `rvm` is not
+# on your computer, that's what we want!
+
+sudo rm -rf $HOME/.rbenv /usr/local/rbenv /opt/rbenv /usr/local/opt/rbenv
+```
+
+Now let's get `rbenv` and `ruby-build` packages from Homebrew, they'll be useful.
+```bash
+brew uninstall --force rbenv ruby-build
+unset RBENV_ROOT && source ~/.zshrc
+brew install rbenv ruby-build && source ~/.zshrc
+```
+
+after that you can install a proper version of ruby
+
+```bash
+rbenv install 2.3.3
+```
+> Replace 2.3.3 with the version that you want to download
+
+Set this version to default
+
+```bash
+rbenv global 2.3.3
+```
+> Same as above, replace 2.3.3 with the version that you just installed
+
+Check your ruby version
+```bash
+ruby -v
+```
+
+### Gems 💎
+
+Some useful gems...
+> You can add some gems if you want. Just separate with a space
+
+```bash
+gem install bundler rspec rubocop pry pry-byebug hub colored gist
+```
+
+
