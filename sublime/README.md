@@ -2,6 +2,8 @@
 
 You'll first need to install [Sublime Text 3] (https://www.sublimetext.com/3) from the web and after that you'll need to copy-paste the following lines in your terminal.
 
+> ⚠️⚠️⚠️ You first need to download the whole config file in Dropbox or adapt these lines
+> ⚠️⚠️⚠️ you will not be able to remove the config file after this since the user config is only linked to dropbox.
 
 ### On Mac
 ```

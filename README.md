@@ -106,4 +106,16 @@ Some useful gems...
 gem install bundler rspec rubocop pry pry-byebug hub colored gist
 ```
 
+## Mac hacks
 
+you can type some useful commands if you want to... No need
+
+like :
+```bash
+echo "Requiring password immediately after sleep or screen saver begins"
+defaults write com.apple.screensaver askForPassword -int 1
+defaults write com.apple.screensaver askForPasswordDelay -int 0
+```
+> This will require password immediately after sleep or screen saver begins
+
+You can find lot of other commands [here](https://gist.github.com/brandonb927/3195465) !
