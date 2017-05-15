@@ -1,0 +1,52 @@
+{
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 3,
+	"caret_style": "phase",
+    "theme": "ayu-mirage.sublime-theme",
+    "color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+	"detect_indentation": false,
+	"draw_white_space": true,
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		"tmp",
+		"log",
+		".git",
+		"_site",
+		".bundle",
+		".sass-cache",
+		"build"
+	],
+	"font_face": "inconsolata",
+	"font_size": 17,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Boxy Theme",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"remember_open_files": false,
+	"rulers":
+	[
+		80
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"use_tab_stops": true,
+	"wide_caret": true,
+	"wordWrap": false
+}

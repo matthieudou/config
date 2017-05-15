@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Agila Theme",
+		"Alignment",
+		"ApplySyntax",
+		"AutoFileName",
+		"ayu",
+		"Bootstrap 3 Autocomplete",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"Boxy Theme Addon - Mono File Icons",
+		"Boxy Theme Addon - Widget Font Size",
+		"BracketHighlighter",
+		"Case Conversion",
+		"Color Highlighter",
+		"Colorsublime",
+		"CSS Extended Completions",
+		"DashDoc",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"ERB Autocomplete",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"JSX",
+		"LiveReload",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Material Theme",
+		"Package Control",
+		"PHP-Twig",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Cobalt2"
+	]
+}
