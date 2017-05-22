@@ -9,7 +9,7 @@ git clone git@github.com:$GITHUB_USERNAME/dotfiles.git
 
 You'll need to run the installer to install the files
 
-> ⚠️ Pay attention, you need `ZSH` installed to run the next lines ⚠️
+⚠️ Pay attention, you need `ZSH` installed to run the next lines ⚠️
 
 ```bash
 zsh install.sh
