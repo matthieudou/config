@@ -8,7 +8,7 @@ Take whatever you want to take, zsh or everything else.
 
 First of all, you need to fork the repo, your configuration files will be personnal, so there will be some updatings ( like your theme, your typo and so on ).
 
-For that, go to [github] (https://github.com/matthieudou/config) and click on `Fork`.
+For that, go to [github](https://github.com/matthieudou/config) and click on `Fork`.
 
 For a proper installation of the files, I recommand to do the install the whole file in a dropbox directory. But feel free to adapt it as you want.
 
